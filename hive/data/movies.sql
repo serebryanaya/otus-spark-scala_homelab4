@@ -1,5 +1,3 @@
-drop DATABASE movie_db cascade;
-
 CREATE DATABASE IF NOT EXISTS movie_db;
 USE movie_db;
 
